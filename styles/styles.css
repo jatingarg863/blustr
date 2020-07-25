@@ -1,0 +1,39 @@
+
+.navbar{
+font-family: 'Just Me Again Down Here', cursive;
+color:#fff;
+background-color: #1f4068;
+
+}
+
+.navbar-brand{
+  font-size: 3rem;
+  font-weight: 600;
+}
+
+
+.img-main{
+margin-top: 5%;
+width:90%;
+}
+
+.row{
+  margin-right: 1%;
+
+}
+
+.logo{
+  font-size: 5rem;
+  font-weight: 400;
+  color: #1f4068;
+  font-family: 'Just Me Again Down Here', cursive;
+  text-align: center;
+}
+
+.form-group{
+  line-height: 1.5;
+}
+
+.btn-outline-primary{
+  margin-top: 2%;
+}
